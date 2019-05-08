@@ -1,0 +1,9 @@
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\bin\Debug\netcoreapp2.0\DoesTheListAddUpToK.deps.json
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\bin\Debug\netcoreapp2.0\DoesTheListAddUpToK.dll
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\bin\Debug\netcoreapp2.0\DoesTheListAddUpToK.pdb
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\obj\Debug\netcoreapp2.0\DoesTheListAddUpToK.csproj.CoreCompileInputs.cache
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\obj\Debug\netcoreapp2.0\DoesTheListAddUpToK.AssemblyInfoInputs.cache
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\obj\Debug\netcoreapp2.0\DoesTheListAddUpToK.AssemblyInfo.cs
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\obj\Debug\netcoreapp2.0\DoesTheListAddUpToK.dll
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\obj\Debug\netcoreapp2.0\DoesTheListAddUpToK.pdb
+C:\git\DailyProgrammingChallenges\April\DoesTheListAddUpToK\obj\Debug\netcoreapp2.0\DoesTheListAddUpToK.csprojResolveAssemblyReference.cache

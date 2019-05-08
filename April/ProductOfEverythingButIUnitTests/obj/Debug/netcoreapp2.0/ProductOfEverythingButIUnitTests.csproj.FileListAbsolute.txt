@@ -1,0 +1,16 @@
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\obj\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.csprojResolveAssemblyReference.cache
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\obj\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.csproj.CoreCompileInputs.cache
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\obj\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.AssemblyInfoInputs.cache
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\obj\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.AssemblyInfo.cs
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.deps.json
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.runtimeconfig.json
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.runtimeconfig.dev.json
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.pdb
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\ProductOfEverythingButI.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\bin\Debug\netcoreapp2.0\ProductOfEverythingButI.pdb
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\obj\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButIUnitTests\obj\Debug\netcoreapp2.0\ProductOfEverythingButIUnitTests.pdb

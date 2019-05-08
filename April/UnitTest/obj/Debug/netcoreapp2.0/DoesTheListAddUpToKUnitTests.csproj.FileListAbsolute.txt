@@ -1,0 +1,16 @@
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.deps.json
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.runtimeconfig.json
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.runtimeconfig.dev.json
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.dll
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.pdb
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\DoesTheListAddUpToK.dll
+C:\git\DailyProgrammingChallenges\April\UnitTest\bin\Debug\netcoreapp2.0\DoesTheListAddUpToK.pdb
+C:\git\DailyProgrammingChallenges\April\UnitTest\obj\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.csprojResolveAssemblyReference.cache
+C:\git\DailyProgrammingChallenges\April\UnitTest\obj\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.csproj.CoreCompileInputs.cache
+C:\git\DailyProgrammingChallenges\April\UnitTest\obj\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.AssemblyInfoInputs.cache
+C:\git\DailyProgrammingChallenges\April\UnitTest\obj\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.AssemblyInfo.cs
+C:\git\DailyProgrammingChallenges\April\UnitTest\obj\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.dll
+C:\git\DailyProgrammingChallenges\April\UnitTest\obj\Debug\netcoreapp2.0\DoesTheListAddUpToKUnitTests.pdb

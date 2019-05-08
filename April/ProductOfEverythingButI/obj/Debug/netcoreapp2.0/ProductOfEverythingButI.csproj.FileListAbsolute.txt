@@ -1,0 +1,9 @@
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\bin\Debug\netcoreapp2.0\ProductOfEverythingButI.deps.json
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\bin\Debug\netcoreapp2.0\ProductOfEverythingButI.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\bin\Debug\netcoreapp2.0\ProductOfEverythingButI.pdb
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\obj\Debug\netcoreapp2.0\ProductOfEverythingButI.csprojResolveAssemblyReference.cache
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\obj\Debug\netcoreapp2.0\ProductOfEverythingButI.csproj.CoreCompileInputs.cache
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\obj\Debug\netcoreapp2.0\ProductOfEverythingButI.AssemblyInfoInputs.cache
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\obj\Debug\netcoreapp2.0\ProductOfEverythingButI.AssemblyInfo.cs
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\obj\Debug\netcoreapp2.0\ProductOfEverythingButI.dll
+C:\git\DailyProgrammingChallenges\April\ProductOfEverythingButI\obj\Debug\netcoreapp2.0\ProductOfEverythingButI.pdb

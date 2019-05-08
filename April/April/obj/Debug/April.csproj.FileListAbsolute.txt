@@ -1,0 +1,7 @@
+C:\git\DailyProgrammingChallenges\April\April\obj\Debug\April.csprojResolveAssemblyReference.cache
+C:\git\DailyProgrammingChallenges\April\April\obj\Debug\April.csproj.CoreCompileInputs.cache
+C:\git\DailyProgrammingChallenges\April\April\bin\Debug\April.exe.config
+C:\git\DailyProgrammingChallenges\April\April\bin\Debug\April.exe
+C:\git\DailyProgrammingChallenges\April\April\bin\Debug\April.pdb
+C:\git\DailyProgrammingChallenges\April\April\obj\Debug\April.exe
+C:\git\DailyProgrammingChallenges\April\April\obj\Debug\April.pdb
