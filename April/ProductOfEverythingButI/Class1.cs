@@ -95,6 +95,11 @@ namespace ProductOfEverythingButI
             return output;
         }
 
+        /// <summary>
+        /// calulate everything before i
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public static int[] Pre(int[] input)
         {
             int[] pre = new int[input.Length];
@@ -112,6 +117,11 @@ namespace ProductOfEverythingButI
             return pre;
         }
 
+        /// <summary>
+        /// calculate everything after i
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public static int[] Post(int[] input)
         {
             int[] post = new int[input.Length];
